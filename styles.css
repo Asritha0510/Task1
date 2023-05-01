@@ -1,0 +1,36 @@
+td {
+    padding: 2px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+input[type=text] {
+    height: 50px;
+    width: 315px;
+}
+
+input[type=button] {
+    background-color: rgb(208, 231, 240);
+    color: rgb(36, 72, 151);
+    width: 60px;
+    border-radius: 14px;
+    height: 50px;
+}
+
+div {
+    margin-top: -10%;
+    padding: 35px;
+    background-color: rgb(118, 172, 253);
+    width: 350px;
+    height: 350px;
+    border-radius: 25px;
+}
+
+h5 {
+    font-style: bold;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
